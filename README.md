@@ -12,7 +12,7 @@
 I build systems that **think, decide, and scale** — not just write code.
 Specializing in **Agentic AI**, **RAG pipelines**, and **Cloud Infrastructure**, turning complex automation problems into production-ready solutions. Currently engineering custom multi-agent workflows and local RAG pipelines.
 
-- 🎓 BSc (Hons) Computer Science — University of Westminster (IIT), Sri Lanka
+- 🎓 BSc (Hons) Computer Science — University of Westminster (IIT)
 - 🛠️ Building autonomous agents and scalable cloud-native infrastructure
 
 ---
