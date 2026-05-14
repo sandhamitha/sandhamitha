@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Hi%2C%20I'm%20Sandhamitha%20%F0%9F%91%8B&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Agentic%20AI%20%C2%B7%20RAG%20Pipelines%20%C2%B7%20Cloud%20Infrastructure&descAlignY=58&descSize=16&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I%27m%20Sandhamitha%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20Cloud%20Infrastructure&descAlignY=58&descSize=16&descColor=a0aec0" width="100%" />
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@ I build systems that **think, decide, and scale** — not just write code.
 Specializing in **Agentic AI**, **RAG pipelines**, and **Cloud Infrastructure**, turning complex automation problems into production-ready solutions. Currently engineering custom multi-agent workflows and local RAG pipelines.
 
 - 🎓 BSc (Hons) Computer Science — University of Westminster (IIT), Sri Lanka
-- ⚡ Previously engineered Python & agentic workflows at **The Job Helpers LLC**
-- ☁️ Head of IT & Automation Consultant at **Sasnaka Sansada Foundation**
 - 🛠️ Building autonomous agents and scalable cloud-native infrastructure
 
 ---
@@ -37,7 +35,6 @@ Specializing in **Agentic AI**, **RAG pipelines**, and **Cloud Infrastructure**,
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
