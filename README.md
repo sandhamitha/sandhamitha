@@ -30,16 +30,6 @@
 
 ---
 
-## 🚀 What I'm Building
-
-| Project | What it does |
-|---|---|
-| 📈 **[Ascendly](https://github.com/Ascendly-lk/Ascendly)** | Autonomous financial dashboard — multi-agent CrewAI workflow + Python data pipelines forecasting startup revenue trends |
-| 🧠 **Second Brain (Local RAG)** | Highly optimised ingestion pipeline: Obsidian → n8n → Claude API → Qdrant. Query your own unstructured markdown — fully local, zero leakage |
-| 📚 **Learn-Steer Platform** | Head of IT for an EdTech platform serving **12,000+ active users** — architecting and scaling Azure/AWS cloud infrastructure |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
