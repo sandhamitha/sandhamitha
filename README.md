@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Sandhamitha%20Jayasinghe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20Pipelines%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=15&descColor=8b949e" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sandhamitha+%F0%9F%91%8B;AI+%26+Software+Engineer;Building+Agentic+AI+Systems;RAG+Pipelines+%7C+Cloud+Infrastructure" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 I build systems that **think, decide, and scale** — not just write code.
 Specializing in **Agentic AI**, **RAG pipelines**, and **Cloud Infrastructure**, turning complex automation problems into production-ready solutions. Currently engineering custom multi-agent workflows and local RAG pipelines.
 
-- 🎓 BSc (Hons) Computer Science — University of Westminster (IIT)
+- 🎓 BSc (Hons) Computer Science — University of Westminster (IIT), Sri Lanka
 - 🛠️ Building autonomous agents and scalable cloud-native infrastructure
 
 ---
@@ -80,6 +80,3 @@ Specializing in **Agentic AI**, **RAG pipelines**, and **Cloud Infrastructure**,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhamitha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandhamithajayasinghe@gmail.com)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%" />
-</p>
